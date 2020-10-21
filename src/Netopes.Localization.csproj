@@ -13,6 +13,9 @@
     <PackageVersion>1.0.0-beta1</PackageVersion>
     <Title>NETopes Localization</Title>
     <RepositoryType>Git</RepositoryType>
+    <PackageProjectUrl>https://github.com/adeotek/dotnet.netopes.localization/</PackageProjectUrl>
+    <PackageLicense>https://github.com/adeotek/dotnet.netopes.localization/blob/develop/README.md</PackageLicense>
+    <RepositoryUrl>https://github.com/adeotek/dotnet.netopes.localization/</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
