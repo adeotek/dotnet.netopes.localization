@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>NETopes.Localization</PackageId>
+    <AssemblyVersion>1.0.0.12</AssemblyVersion>
+    <FileVersion>1.0.0.12</FileVersion>
+    <Version>1.0.0</Version>
+    <Product>NETopes Localization</Product>
+    <Company>AdeoTEK Software SRL</Company>
+    <Authors>George Benjamin-Schonberger</Authors>
+    <Copyright>Copyright © AdeoTEK Software SRL 2021</Copyright>
+    <PackageVersion>1.0.0-beta1</PackageVersion>
+    <Title>NETopes Localization</Title>
+    <RepositoryType>Git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Localization" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0-rc.2.20475.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0-rc.2.20475.5" />
+    <PackageReference Include="Microsoft.Extensions.Localization" Version="5.0.0-rc.2.20475.17" />
+    <PackageReference Include="System.Net.Http.Json" Version="5.0.0-rc.2.20475.5" />
+  </ItemGroup>
+
+</Project>
